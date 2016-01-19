@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/vendor/bower/bootstrap" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/bower/jquery" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower/jquery-ui" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/bower/jquery.inputmask" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/bower/punycode" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/bower/typeahead.js" />
@@ -22,6 +23,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-debug" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-faker" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-gii" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-jui" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-swiftmailer" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
@@ -41,6 +43,7 @@
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bower/bootstrap" />
           <root url="file://$MODULE_DIR$/vendor/bower/jquery" />
+          <root url="file://$MODULE_DIR$/vendor/bower/jquery-ui" />
           <root url="file://$MODULE_DIR$/vendor/bower/jquery.inputmask" />
           <root url="file://$MODULE_DIR$/vendor/bower/punycode" />
           <root url="file://$MODULE_DIR$/vendor/bower/typeahead.js" />
@@ -58,12 +61,14 @@
           <root url="file://$MODULE_DIR$/vendor/yiisoft/yii2-debug" />
           <root url="file://$MODULE_DIR$/vendor/yiisoft/yii2-faker" />
           <root url="file://$MODULE_DIR$/vendor/yiisoft/yii2-gii" />
+          <root url="file://$MODULE_DIR$/vendor/yiisoft/yii2-jui" />
           <root url="file://$MODULE_DIR$/vendor/yiisoft/yii2-swiftmailer" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
           <root url="file://$MODULE_DIR$/vendor/bower/bootstrap" />
           <root url="file://$MODULE_DIR$/vendor/bower/jquery" />
+          <root url="file://$MODULE_DIR$/vendor/bower/jquery-ui" />
           <root url="file://$MODULE_DIR$/vendor/bower/jquery.inputmask" />
           <root url="file://$MODULE_DIR$/vendor/bower/punycode" />
           <root url="file://$MODULE_DIR$/vendor/bower/typeahead.js" />
@@ -81,6 +86,7 @@
           <root url="file://$MODULE_DIR$/vendor/yiisoft/yii2-debug" />
           <root url="file://$MODULE_DIR$/vendor/yiisoft/yii2-faker" />
           <root url="file://$MODULE_DIR$/vendor/yiisoft/yii2-gii" />
+          <root url="file://$MODULE_DIR$/vendor/yiisoft/yii2-jui" />
           <root url="file://$MODULE_DIR$/vendor/yiisoft/yii2-swiftmailer" />
         </SOURCES>
       </library>

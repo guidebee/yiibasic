@@ -13,3 +13,9 @@ use yii\widgets\ActiveForm;
     </div>
 
 <?php ActiveForm::end(); ?>
+
+<?php
+use yii\jui\DatePicker;
+?>
+<?= DatePicker::widget(['name' => 'date']) ?>
+

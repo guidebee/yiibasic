@@ -13,3 +13,6 @@ use yii\widgets\LinkPager;
     </ul>
 
 <?= LinkPager::widget(['pagination' => $pagination]) ?>
+
+
+
